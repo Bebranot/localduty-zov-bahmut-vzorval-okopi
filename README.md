@@ -1,4 +1,3 @@
-<p align="center"> <img alt="Space Station 14" width="1280" height="300" src="https://i.imgur.com/2nqz4IN.jpeg" /></p>
 
 ВАЗАААААААААААП
 
